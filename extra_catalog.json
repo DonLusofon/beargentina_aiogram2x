@@ -1,0 +1,127 @@
+{
+  "test4333": {
+    "product_name": "TEST Илья",
+    "seller_name": "Илья Вольфсон",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "test4422": {
+    "product_name": "TEST Илья",
+    "seller_name": "Илья Вольфсон",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "foto9063": {
+    "product_name": "foto9063",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "foto1574": {
+    "product_name": "foto1574",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "foto7391": {
+    "product_name": "foto7391",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "car7419": {
+    "product_name": "car7419",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "car5930": {
+    "product_name": "car5930",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "car8167": {
+    "product_name": "car8167",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "massage0681": {
+    "product_name": "massage0681",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "yoga3851": {
+    "product_name": "yoga3851",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "exchange4321": {
+    "product_name": "exchange4321",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "flowers3448": {
+    "product_name": "flowers3448",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "tours4861": {
+    "product_name": "tours4861",
+    "seller_name": "Продавец",
+    "seller_chat_id": 367102417,
+    "seller_username": null,
+    "seller_contact_raw": "367102417"
+  },
+  "service": {
+    "product_name": "Попить пивка",
+    "seller_name": "Илья Вольфсон",
+    "seller_chat_id": null,
+    "seller_username": "@donlusofon",
+    "seller_contact_raw": "@donlusofon"
+  },
+  "service-3": {
+    "deleted": true
+  },
+  "service-2": {
+    "deleted": true
+  },
+  "translatedocs3562": {
+    "product_name": "Переводы документов",
+    "seller_name": "Продавец",
+    "seller_chat_id": 7808639413,
+    "seller_username": null,
+    "seller_contact_raw": "7808639413"
+  },
+  "ksushasky_test": {
+    "product_name": "Тестовый товар Ксюша Sky",
+    "seller_name": "Ксюша Sky",
+    "seller_chat_id": null,
+    "seller_username": "@ksushasky",
+    "seller_contact_raw": "@ksushasky"
+  },
+  "testservice": {
+    "product_name": "Тестовая услуга",
+    "seller_name": "Lumos Care",
+    "seller_chat_id": 8112084235,
+    "seller_username": "@lumos_care",
+    "seller_contact_raw": "@lumos_care"
+  }
+}
