@@ -1,127 +1,261 @@
 {
-  "test4333": {
-    "product_name": "TEST Илья",
-    "seller_name": "Илья Вольфсон",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "522b41": {
+    "product_name": "Фотосессия, работа с визуалом (Анастасия Вандалковская)",
+    "seller_name": "Анастасия Вандалковская",
+    "seller_chat_id": 177268681,
+    "seller_username": "@vandalkovskaya",
+    "seller_contact_raw": "108343575"
   },
-  "test4422": {
-    "product_name": "TEST Илья",
-    "seller_name": "Илья Вольфсон",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "6d68b5": {
+    "product_name": "New born фотоссесия (Елена)",
+    "seller_name": "Елена",
+    "seller_chat_id": 6155103876,
+    "seller_username": "@Elenababy_photo",
+    "seller_contact_raw": "108343575"
   },
-  "foto9063": {
-    "product_name": "foto9063",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "40c5fe": {
+    "product_name": "Семейная фотосессия (Ангелина Голубева)",
+    "seller_name": "Angelina Golubeva",
+    "seller_chat_id": 7056987875,
+    "seller_username": "@golubeva_angelina_pro",
+    "seller_contact_raw": "108343575"
   },
-  "foto1574": {
-    "product_name": "foto1574",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "4cd919": {
+    "product_name": "New born фотоссесия (Леся Дубовикова)",
+    "seller_name": "Леся Дубовикова",
+    "seller_chat_id": 1090311792,
+    "seller_username": "@lesia_dubovikova",
+    "seller_contact_raw": "108343575"
   },
-  "foto7391": {
-    "product_name": "foto7391",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "c7e2b7": {
+    "product_name": "Аренда авто в Аргентине (BA.GO)",
+    "seller_name": "BA.GO",
+    "seller_chat_id": 8105317993,
+    "seller_username": "@artem_rentoBA",
+    "seller_contact_raw": "108343575"
   },
-  "car7419": {
-    "product_name": "car7419",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "433dd3": {
+    "product_name": "Аренда авто в Буэнос-Айресе (EasyCar)",
+    "seller_name": "EasyCar",
+    "seller_chat_id": 6737204680,
+    "seller_username": "@easycar_ba",
+    "seller_contact_raw": "108343575"
   },
-  "car5930": {
-    "product_name": "car5930",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "4c0a82": {
+    "product_name": "Аренда авто в Аргентине (Urentcar AR)",
+    "seller_name": "Urentcar AR",
+    "seller_chat_id": 5554565971,
+    "seller_username": "@urentcarar",
+    "seller_contact_raw": "108343575"
   },
-  "car8167": {
-    "product_name": "car8167",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "242c69": {
+    "product_name": "Трансфер по Буэнос-Айресу (Михаил)",
+    "seller_name": "Михаил",
+    "seller_chat_id": 764023370,
+    "seller_username": "@Oldwendal",
+    "seller_contact_raw": "108343575"
   },
-  "massage0681": {
-    "product_name": "massage0681",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "93db07": {
+    "product_name": "Консультация по грудному вскармливанию (Виктория Буданова)",
+    "seller_name": "Виктория Буданова",
+    "seller_chat_id": 2139040774,
+    "seller_username": "@budvik_psy",
+    "seller_contact_raw": "108343575"
   },
-  "yoga3851": {
-    "product_name": "yoga3851",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "930937": {
+    "product_name": "Детский массаж, ЛФК (Антонина)",
+    "seller_name": "Антонина",
+    "seller_chat_id": 1288459421,
+    "seller_username": "@isoonlin",
+    "seller_contact_raw": "108343575"
   },
-  "exchange4321": {
-    "product_name": "exchange4321",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "d473b7": {
+    "product_name": "Йога в гамаках (Екатерина Демина)",
+    "seller_name": "Екатерина Демина",
+    "seller_chat_id": 743287061,
+    "seller_username": "@catherinedyomina_yoga",
+    "seller_contact_raw": "108343575"
   },
-  "flowers3448": {
-    "product_name": "flowers3448",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "5176e0": {
+    "product_name": "Консультация нутрициолога (Юлия Дворецкая)",
+    "seller_name": "Юлия Дворецкая",
+    "seller_chat_id": 230858270,
+    "seller_username": "@juliadolcefita",
+    "seller_contact_raw": "108343575"
   },
-  "tours4861": {
-    "product_name": "tours4861",
-    "seller_name": "Продавец",
-    "seller_chat_id": 367102417,
-    "seller_username": null,
-    "seller_contact_raw": "367102417"
+  "839f66": {
+    "product_name": "Консультация по детскому сну  (Виктория Буданова)",
+    "seller_name": "Виктория Буданова",
+    "seller_chat_id": 2139040774,
+    "seller_username": "@budvik_psy",
+    "seller_contact_raw": "108343575"
   },
-  "service": {
-    "product_name": "Попить пивка",
-    "seller_name": "Илья Вольфсон",
-    "seller_chat_id": null,
-    "seller_username": "@donlusofon",
-    "seller_contact_raw": "@donlusofon"
+  "8b3422": {
+    "product_name": "Обмен валют в Аргентине (Optima Exchange)",
+    "seller_name": "Optima Exchange Argentinas",
+    "seller_chat_id": 7411597765,
+    "seller_username": "@Optima_Exchange_Operator",
+    "seller_contact_raw": "108343575"
   },
-  "service-3": {
-    "deleted": true
+  "767457": {
+    "product_name": "Обмен валют в Аргентине (Rapidollar)",
+    "seller_name": "Rapidollar",
+    "seller_chat_id": 7687252558,
+    "seller_username": "@RapiBearg",
+    "seller_contact_raw": "108343575"
   },
-  "service-2": {
-    "deleted": true
+  "86c1d6": {
+    "product_name": "Клининг квартир и офисов в Буэнос-Айресе (Airefresco)",
+    "seller_name": "airefresco",
+    "seller_chat_id": 5920037059,
+    "seller_username": "@airefresco_ar",
+    "seller_contact_raw": "108343575"
   },
-  "translatedocs3562": {
-    "product_name": "Переводы документов",
-    "seller_name": "Продавец",
+  "d491b8": {
+    "product_name": "Уроки испанского языка (Андрей)",
+    "seller_name": "Андрей",
+    "seller_chat_id": 344754251,
+    "seller_username": "@andres_met",
+    "seller_contact_raw": "108343575"
+  },
+  "dff65d": {
+    "product_name": "Доставка домашней кухни в Буэнос-Айресе (Вкусная Аргентина)",
+    "seller_name": "Вкусная Аргентина",
+    "seller_chat_id": 8119081326,
+    "seller_username": "@vkus_argentina_zakaz",
+    "seller_contact_raw": "108343575"
+  },
+  "a4c046": {
+    "product_name": "Цветы в Буэнос-Айресе (FLOWVERA)",
+    "seller_name": "FLOWVERA",
+    "seller_chat_id": 702509551,
+    "seller_username": "@FlowveraAr",
+    "seller_contact_raw": "108343575"
+  },
+  "10cd93": {
+    "product_name": "Доставка цветов и оформление мероприятий (Unomas)",
+    "seller_name": "Unomas",
+    "seller_chat_id": 1619049482,
+    "seller_username": "@Unomas_flores",
+    "seller_contact_raw": "108343575"
+  },
+  "632608": {
+    "product_name": "Аренда детских вещей (Comuna Kids)",
+    "seller_name": "Comuna Kids",
     "seller_chat_id": 7808639413,
-    "seller_username": null,
-    "seller_contact_raw": "7808639413"
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
   },
-  "ksushasky_test": {
-    "product_name": "Тестовый товар Ксюша Sky",
-    "seller_name": "Ксюша Sky",
-    "seller_chat_id": null,
-    "seller_username": "@ksushasky",
-    "seller_contact_raw": "@ksushasky"
+  "e2ace5": {
+    "product_name": "Аренда жилья в Буэнос-Айресе (Comuna Rent)",
+    "seller_name": "Comuna Rent",
+    "seller_chat_id": 7808639413,
+    "seller_username":"@beargentino_admin",
+    "seller_contact_raw": "108343575"
   },
-  "testservice": {
-    "product_name": "Тестовая услуга",
-    "seller_name": "Lumos Care",
-    "seller_chat_id": 8112084235,
-    "seller_username": "@lumos_care",
-    "seller_contact_raw": "@lumos_care"
+  "1b2664": {
+    "product_name": "Покупка недвижимости в Буэнос-Айресе и за его пределами (Comuna RealEstate)",
+    "seller_name": "Comuna RealEstate",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "2b8cdd": {
+    "product_name": "Покупки на маркетплейсах и в интернет-магазинах Аргентины (Comuna Home)",
+    "seller_name": "Comuna Home",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "2e0bf3": {
+    "product_name": "Помощь и сопровождение при открытие банковских счетов в Аргентине (Comuna Citizenship)",
+    "seller_name": "Comuna Citizenship",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "7fc7bf": {
+    "product_name": "Помощь и сопровождение при регистрации монотрибуто в Аргентине (Comuna Citizenship)",
+    "seller_name": "Comuna Citizenship",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "58d159": {
+    "product_name": "Путешествия по городам и самым ярким точкам Аргентины (Comuna Travel)",
+    "seller_name": "Comuna Travel",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "6eac72": {
+    "product_name": "Хранение вещей в Аргентине  (Comuna Home)",
+    "seller_name": "Comuna Home",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "26e311": {
+    "product_name": "Врач-педиатр, неонатолог (Надежда Кацуба)",
+    "seller_name": "Надежда Кацуба",
+    "seller_chat_id": 1298699604,
+    "seller_username": "@Nadzeyadoc",
+    "seller_contact_raw": "108343575"
+  },
+  "145a55": {
+    "product_name": "Подача и полное сопровождение получения гражданства Аргентины (Comuna Citizenship)",
+    "seller_name": "Comuna Citizenship",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "80f045": {
+    "product_name": "Услуги яхтинга в Буэнос-Айресе (Ветрено)",
+    "seller_name": "Ветрено: яхтинг в БА",
+    "seller_chat_id": 299459541,
+    "seller_username": "@Viktoriya",
+    "seller_contact_raw": "108343575"
+  },
+  "9da63d": {
+    "product_name": "Перевод и подготовка документов (Comuna Citizenship)",
+    "seller_name": "Comuna Citizenship",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "a49c24": {
+    "product_name": "Консалтинг, аудит, построение бизнеса (Comuna Business)",
+    "seller_name": "Comuna Business",
+    "seller_chat_id": 987059290,
+    "seller_username": "@Evgenii",
+    "seller_contact_raw": "108343575"
+  },
+  "f10333": {
+    "product_name": "Обмен опытом, нетворкинг и рост бизнеса (сообщество Comuna Business)",
+    "seller_name": "Comuna Business",
+    "seller_chat_id": 987059290,
+    "seller_username": "@Evgenii",
+    "seller_contact_raw": "108343575"
+  },
+  "4b5216": {
+    "product_name": "Организация праздников и мероприятий (Comuna Events)",
+    "seller_name": "Comuna Events",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "618a7d": {
+    "product_name": "Сопровождение родов в Аргентине и оформление документов (Comuna Beargentino)",
+    "seller_name": "Comuna Beargentino",
+    "seller_chat_id": 7808639413,
+    "seller_username": "@beargentino_admin",
+    "seller_contact_raw": "108343575"
+  },
+  "cb1196": {
+    "product_name": "Доставка сбалансированного питания в Буэнос-Айресе (BBand Delivery)",
+    "seller_name": "BBand Delivery",
+    "seller_chat_id": 669361199,
+    "seller_username": "@babichsun",
+    "seller_contact_raw": "108343575"
   }
 }

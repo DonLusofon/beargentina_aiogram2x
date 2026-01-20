@@ -1,0 +1,3 @@
+for script.csv
+scripts/csv_to_extra_catalog.py
+secretkeys.env
