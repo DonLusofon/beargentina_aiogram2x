@@ -13,7 +13,7 @@ BOT_TOKEN = env("BOT_TOKEN", "")  # берётся из окружения бо�
 BOT_USERNAME = env("BOT_USERNAME", "volfson_test_bot").lstrip("@")
 
 # Базовая страница каталога (для подсказок пользователю)
-SITE_BASE_URL = env("SITE_BASE_URL", "https://beargentino.ru/market")
+SITE_BASE_URL = env("SITE_BASE_URL", "https://comunaglobal.com")
 # Путь к локальному файлу с дополнительными записями (по умолчанию в репозитории)
 EXTRA_CATALOG_PATH = env("EXTRA_CATALOG_PATH", "extra_catalog.json")
 # Контакт поддержки, который показываем заказчику

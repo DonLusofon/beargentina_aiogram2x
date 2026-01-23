@@ -337,8 +337,8 @@ async def handle_start(message: types.Message) -> None:
 
     if not payload:
         await message.answer(
-            "Привет! Выберите услугу на сайте и нажмите кнопку «Заказать».\n"
-            f"{config.SITE_BASE_URL}"
+            "Приветствуем! Это бот-помощник маркетплейса ComunaMarket.\n"
+            "Переходите на наш сайт и выбирайте услугу: https://comunaglobal.com"
         )
         return
 
