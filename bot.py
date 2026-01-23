@@ -338,7 +338,8 @@ async def handle_start(message: types.Message) -> None:
     if not payload:
         await message.answer(
             "Приветствуем! Это бот-помощник маркетплейса ComunaMarket.\n"
-            "Переходите на наш сайт и выбирайте услугу: https://comunaglobal.com"
+            "Переходите на наш сайт и выбирайте услугу: https://comunaglobal.com",
+            disable_web_page_preview=True,
         )
         return
 
